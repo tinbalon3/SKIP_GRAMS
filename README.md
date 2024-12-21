@@ -58,18 +58,15 @@ The Skip-gram model is a neural network designed to learn word embeddings, enabl
 ### Running the Model
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/skipgram-vietnamese.git
-   cd skipgram-vietnamese
+   git clone https://github.com/tinbalon3/Skip-grams_not_use_library.git
+   cd Skip-grams_not_use_library
    ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Train the model:
+
+2. Train the model:
    ```python
    python train.py
    ```
-4. Evaluate embeddings:
+3. Evaluate embeddings:
    ```python
    python evaluate.py
    ```
