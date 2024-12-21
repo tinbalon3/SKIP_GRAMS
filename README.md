@@ -84,5 +84,5 @@ Mô hình Skip-gram là một mạng nơ-ron được thiết kế để học c
 - **Dương Văn Sìnl**  
   Sinh viên tại Đại học Sài Gòn, Khoa Công nghệ Thông tin  
   Liên hệ: tinbalon3@gmail.com
-```
+
 
